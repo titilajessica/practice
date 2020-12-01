@@ -1,0 +1,12 @@
+.ourBox{
+
+    height: 300px;
+    width:300px
+    backgroud-color: blue;
+    margin:auto;
+    border-width:10px;
+    border-style:ridge;
+    border-color:grey;
+    border-radius: 50%;
+    padding:50px 40px 50px 40px;
+}
